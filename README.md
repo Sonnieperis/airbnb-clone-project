@@ -114,3 +114,36 @@ Each role contributes to building a high-quality, functional Airbnb-style bookin
 ###  Summary
 Defining roles and responsibilities creates a **structured workflow**, promotes **clear accountability**, and helps simulate the **real-world collaboration** environment common in professional software development teams.  
 Even in smaller or individual projects, understanding these roles helps developers manage multiple aspects effectively — from design and implementation to testing and deployment.
+
+##  UI Component Patterns
+
+To ensure a consistent and maintainable front-end design, the project adopts a **component-based architecture**.  
+Each UI element is designed for **reusability**, **scalability**, and **visual consistency** across different views of the application.
+
+###  Core Components
+
+| **Component** | **Description** | **Purpose / Functionality** |
+|----------------|------------------|------------------------------|
+| **Navbar** | Displays the logo, navigation links, and user profile menu. Designed to be responsive with a mobile-friendly dropdown. | Provides intuitive site navigation and quick access to core sections such as Home, Listings, and Account. |
+| **Property Card** | A reusable component displaying property image, title, price, location, and rating. May include a favorite (heart) icon. | Used in the Property Listing View to visually present multiple listings in a clean, grid-style layout. |
+| **Footer** | Contains important links such as About, Contact, Terms of Service, and social media icons. | Maintains brand identity and ensures easy access to secondary navigation and contact information. |
+| **Search Bar** | Positioned prominently within the header or landing section. Includes filters for location, price, and date range. | Allows users to quickly find listings that match their preferences. |
+| **Booking Form** | Includes input fields for check-in/check-out dates, number of guests, and payment details. | Facilitates smooth and secure booking interactions within the Listing Details and Checkout views. |
+| **Modal Component** | A reusable overlay for pop-ups such as login prompts, booking confirmations, or error messages. | Improves user experience by delivering context-specific actions without navigating away from the page. |
+| **Image Carousel** | Displays property images in a swipeable or clickable gallery format. | Enhances visual presentation and engagement on the property details page. |
+
+---
+
+###  Design Philosophy
+
+- **Reusability:** Each component is modular and can be reused across multiple views to reduce redundancy.  
+- **Consistency:** Maintains a unified look and feel through shared color schemes, typography, and spacing.  
+- **Accessibility:** Components follow accessibility best practices to ensure usability for all users.  
+- **Responsiveness:** Designed with a mobile-first approach to ensure optimal performance on all devices.  
+
+---
+
+###  Summary
+
+Planning UI component patterns early helps maintain a **scalable front-end architecture**, improves **development efficiency**, and ensures **visual harmony** across the application.  
+By defining reusable elements like the Navbar, Property Card, and Footer, the project remains organized and easier to expand as new features are introduced.
