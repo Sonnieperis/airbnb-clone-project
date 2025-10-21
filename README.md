@@ -92,3 +92,25 @@ Each UI component is designed to be **reusable**, **scalable**, and **consistent
 
 ###  Summary
 The UI/UX design planning ensures that the Airbnb Clone project aligns with real-world standards of usability, consistency, and performance. Every decision—from color palette to component layout—serves one purpose: **making booking as simple, secure, and enjoyable as possible.**
+
+## Project Roles and Responsibilities
+
+This project simulates a real-world software engineering team structure to ensure collaboration, accountability, and clarity of purpose.  
+Each role contributes to building a high-quality, functional Airbnb-style booking platform.
+
+| **Role** | **Key Responsibilities** | **Contribution to Project Success** |
+|-----------|--------------------------|-------------------------------------|
+| **Project Manager** | Oversees the overall project timeline, milestones, and deliverables. Coordinates communication between all team members. | Ensures tasks are completed on time, maintains workflow efficiency, and aligns the project with its objectives. |
+| **Frontend Developers** | Build responsive and interactive user interfaces using HTML, CSS, and JavaScript (or React). Collaborate closely with designers to implement UI components. | Translate design mockups into functional pages, ensuring usability and responsiveness across devices. |
+| **Backend Developers** | Develop and maintain the API layer, database structure, and server-side logic. Handle authentication, data storage, and retrieval. | Enable smooth communication between the frontend and backend, ensuring reliable data handling and security. |
+| **Designers (UI/UX)** | Create the visual identity of the platform in Figma, define color palettes, typography, and interaction flows. | Ensure a user-friendly, consistent, and aesthetically appealing experience that enhances user trust and engagement. |
+| **QA/Testers** | Test all application features for bugs, usability issues, and performance problems. Write and execute test cases. | Guarantee product quality by identifying and resolving issues before deployment. |
+| **DevOps Engineers** | Set up the deployment environment, manage CI/CD pipelines, monitor server performance, and handle scalability. | Ensure the app runs smoothly in production with minimal downtime and efficient performance. |
+| **Product Owner** | Define the vision and goals of the product, prioritize features, and ensure alignment with user needs. | Keeps the project focused on delivering value to end-users and meeting real-world use cases. |
+| **Scrum Master** | Facilitates agile processes, manages sprint ceremonies, and removes obstacles blocking progress. | Keeps the team organized and ensures continuous delivery through iterative development. |
+
+---
+
+###  Summary
+Defining roles and responsibilities creates a **structured workflow**, promotes **clear accountability**, and helps simulate the **real-world collaboration** environment common in professional software development teams.  
+Even in smaller or individual projects, understanding these roles helps developers manage multiple aspects effectively — from design and implementation to testing and deployment.
